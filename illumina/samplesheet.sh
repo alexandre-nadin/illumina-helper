@@ -4,7 +4,7 @@
 # Ideally every implementations drafted here should be later implemented
 # in the python project illumina-helper.
 #
-source logging.lib
+source logging.sh
 
 ssheet__curlNbTries=3
 ssheet__curlRetryDelay=1
